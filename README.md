@@ -4,7 +4,7 @@ This repository contains practical code developed during the "Python Project for
 
 ## Organization
 
-## ETL Process Practice
+### ETL Process Practice
 
 The `ETL Process Practice` directory contains practice code for ETL processes. It includes the following components:
 
