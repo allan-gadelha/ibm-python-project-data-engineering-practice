@@ -4,12 +4,13 @@ This repository contains practical code developed during the "Python Project for
 
 ## Organization
 
-The repository is organized as follows:
+## ETL Process Practice
 
-- **`code/`**: Contains practical code developed during the course.
-- **`data/`**: Location for storing datasets used in the code and notebooks.
-- **`.gitignore`**: File to specify files and directories that should be ignored by version control.
-- **`requirements.txt`**: List of Python packages and their versions required for the project.
+The `ETL Process Practice` directory contains practice code for ETL processes. It includes the following components:
+
+- **data/**: Directory containing all data used for the ETL process.
+- **script/**: Directory containing Python script(s) for performing the ETL process.
+  - **etl_practice.py**: Python script for ETL process practice.
 
 ## Requirements
 
