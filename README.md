@@ -26,6 +26,14 @@ The `Web Scraping Practice` directory contains practice code for Web Scraping pr
 - **script/**: Directory containing Python script(s) for performing the Web Scraping process.
   - **webscraping_movies.py**: Python script for ETL process practice.
 
+### Accessing Databases using Python Practice
+
+The `Accessing Databases with Python Practice` directory contains practice code for Accessing Databases with Python processes. It includes the following components:
+
+- **data/**: Directory containing the csv file that we'll use to load the contents on the database.
+- **database/**: Directory containing the created database
+- **scripts/**: Directory containing Python script for performing the Accessing Databases with Python process
+
 ## Requirements
 
 Make sure you have the following Python packages installed:
@@ -34,5 +42,6 @@ Make sure you have the following Python packages installed:
 - Glob
 - XML
 - Datetime
+- Sqlite3
 
 
