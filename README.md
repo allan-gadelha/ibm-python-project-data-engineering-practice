@@ -34,6 +34,15 @@ The `Accessing Databases with Python Practice` directory contains practice code 
 - **database/**: Directory containing the created database
 - **scripts/**: Directory containing Python script for performing the Accessing Databases with Python process
 
+### Practice Project
+
+The `Practice Project` directory contains practice code for  the Practice Project. It includes the following components:
+
+- **database/**: Directory containing the SQLite database file 'World_Economies.db'.
+- **logs/** Directory containing the log from the project
+- **output/**: Directory containing the output JSON file 'Countries_by_GDP.json'.
+- **scripts/**: Directory containing the Python script(s) for the project.
+
 ## Requirements
 
 Make sure you have the following Python packages installed:
@@ -43,5 +52,6 @@ Make sure you have the following Python packages installed:
 - XML
 - Datetime
 - Sqlite3
+- BeautifulSoup
 
 
