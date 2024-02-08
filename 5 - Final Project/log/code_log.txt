@@ -1,0 +1,14 @@
+2024-Feb-08-11:43:40,ETL Job Started
+2024-Feb-08-11:43:40,Extract phase Started
+2024-Feb-08-11:43:45,Extract phase Ended
+2024-Feb-08-11:43:45,Transform phase Started
+2024-Feb-08-11:43:45,Transform phase Ended
+2024-Feb-08-11:43:45,Load phase Started
+2024-Feb-08-11:43:45,Load phase Ended
+2024-Feb-08-11:43:45,ETL Job Finished
+2024-Feb-08-11:43:45,Query for the entire table Started
+2024-Feb-08-11:43:45,Query for the entire table Ended
+2024-Feb-08-11:43:45,Query for the average MC_GBP_Billion from all the banks Started
+2024-Feb-08-11:43:45,Query for the average MC_GBP_Billion from all the banks Ended
+2024-Feb-08-11:43:45,Query for the top 5 banks Started
+2024-Feb-08-11:43:45,Query for the top 5 banks Ended

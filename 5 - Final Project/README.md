@@ -31,8 +31,8 @@ Particulars of the code to be made have been shared below.
 4. Write a function to load the transformed data frame to an SQL database server as a table.
 5. Write a function to run queries on the database table.
 6. Run the following queries on the database table:
-    - Extract the information for the London office, that is Name and MC_GBP_Billion
-    - Extract the information for the Berlin office, that is Name and MC_EUR_Billion
-    - Extract the information for New Delhi office, that is Name and MC_INR_Billion
+    - Extract the information of the entire table
+    - Extract the information of average market capitalization of all the banks in Billion USD.
+    - Extract the the name of the top 5 banks
 7. Write a function to log the progress of the code.
 8. While executing the data initialization commands and function calls, maintain appropriate log entries.

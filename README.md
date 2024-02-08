@@ -43,6 +43,16 @@ The `Practice Project` directory contains practice code for  the Practice Projec
 - **output/**: Directory containing the output JSON file 'Countries_by_GDP.json'.
 - **scripts/**: Directory containing the Python script(s) for the project.
 
+### Final Project
+
+The `Final Project` directory contains practice code for the Final Project of the course. It includes the following components:
+
+- **data/**: Directory containing the csv file that we'll use.
+- **database/**: Directory containing the SQLite database file 'Banks.db'.
+- **log/** Directory containing the log from the project
+- **output/**: Directory containing the output csv file 'Largest_banks_data.csv'.
+- **script/**: Directory containing the Python script(s) for the project.
+
 ## Requirements
 
 Make sure you have the following Python packages installed:
